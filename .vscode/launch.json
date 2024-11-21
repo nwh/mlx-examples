@@ -15,6 +15,7 @@
                 "'widebody passenger airliner of the future.'",
                 "--n_images=4",
                 "--n_rows=2",
+                "--verbose"
             ]
         }
     ]
